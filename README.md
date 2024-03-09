@@ -11,7 +11,10 @@ Hydrophobins and cerato-platanins, hydrophobic and surface-active extracellular 
 This repository contains:
 - raw_data: All raw data collected from the Uniprot database to train the predictive models.
 - src: The source code implemented in this work.
-- results: The trained models developed in this work.
+- results: The performances and the exploration results
+- generated_models: The trained models in joblib format.
+
+*Note Some files are in a compressed formad. Please, uncompressed it and then use it as your convenience.*
 
 ## Requeriments
 
